@@ -1,13 +1,13 @@
 # Project1
 
-Data
+##Data
 US Inflation - monthly and annual inflation from 2006-current (12-month CPI)
 Texas Unemployment Rate - by area / monthly from 2006-current
 Total Employment and Wages (Avg. Weekly Wages) - quarterly from 2006-current
 2 version: Total Texas - by Industry / All Industry - by Area
 Finance and Insurance Sector - by area
 
-Analysis
+##Analysis
 Correlation  between Inflation vs. Unemployment Rate 
 Overall Finance Sector data vs. All Industry (Texas only)
 Establishment / Firm %
